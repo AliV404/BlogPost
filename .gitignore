@@ -4,6 +4,9 @@
 .idea/
 .vscode
 
+## secret keys
+.env
+
 ### Also any macOS specific files
 .DS_Store
 .AppleDouble

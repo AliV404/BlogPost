@@ -4,7 +4,7 @@
 .idea/
 .vscode
 
-## Secret Keys.
+## secret keys
 .env
 
 ### Also any macOS specific files
